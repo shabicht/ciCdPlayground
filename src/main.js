@@ -16,15 +16,15 @@ new App({
 		tools: 'Does Github Actions count?',
 		// What do you want to learn in this workshop? 
 		expectations: [
-			'As much as possible about CI/CD, Github Actions and pipelines, ' +
-			'What Jenkins is maybe'
+			'As much as possible about CI/CD, Github Actions and pipelines',
+			'What Jenkins is maybe?'
 		],
 		// What do you like to do when you're not coding?
 		hobbies: [
-			'go hiking and exploring nature',
-			'playing with dogs',
-			'camping',
-			'but also gaming and watching Netflix :p'
+			'go hiking and explore nature',
+			'play with dogs',
+			'go camping',
+			'but also play games and watch Netflix :p'
 		]
 	}
 });
